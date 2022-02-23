@@ -1,11 +1,5 @@
 # PostgreSQL-Tutorial
 
-Run this script to create a virtual environment and install dependency libraries
-```bash
-conda create -n postgreSQL python=3.7
-conda activate postgreSQL
-```
-
 To manipulate with the PostgreSQL database using the Python programming language.
 ```bash
 pip install psycopg2
