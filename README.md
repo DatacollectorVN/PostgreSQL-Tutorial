@@ -1,4 +1,4 @@
-# PostgresSQL-Tutorial
+# PostgreSQL-Tutorial
 
 ## My own document:
 1. [Install-and-setup-PostgreSQL-in-Ubuntu](https://docs.google.com/document/d/1mPWTbUfs8ajLwxrUDHGSQqNRZLJ-ExxUKa5DWb1XytQ/edit?usp=sharing)
