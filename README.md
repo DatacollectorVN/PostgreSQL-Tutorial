@@ -5,6 +5,8 @@
 
 2. [Fundamental-psql-command](https://docs.google.com/document/d/1u0_LmWRzFsa3bfdAgi5y6LYnnArAH9qVqj-3oPzWQEo/edit?usp=sharing)
 
+3. [PostgreSQL-with-Python](https://docs.google.com/document/d/13ViJ81EbQ4p-QwLm1tR5_daqJE4lQ7g5bhqmEx9YHQQ/edit?usp=sharing)
+
 ## Setup environment
 
 Run this script to create a virtual environment and install dependency libraries
